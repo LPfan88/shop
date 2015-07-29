@@ -1,0 +1,10 @@
+var config = {
+    verbose: false,
+    mysql_host: '',
+    mysql_user: '',
+    mysql_db: '',
+    mysql_pass: '',
+    ws_port: '8085',
+};
+
+module.exports = config;

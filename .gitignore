@@ -1,0 +1,4 @@
+ws-backend/node_modules
+ws-backend/config.js
+app/config/config.php
+.idea

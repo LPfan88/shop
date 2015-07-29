@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "async": "latest",
+    "socket.io": "latest",
+    "mysql": "latest",
+    "escape-html" : "latest"
+  }
+}
