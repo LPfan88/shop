@@ -216,7 +216,7 @@ io.on('connection', function (socket) {
     });
 
     socket.on('disconnect', function () {
-        socket.emit('disconnected');
+        console.log('disconnect');
     });
 
 });
